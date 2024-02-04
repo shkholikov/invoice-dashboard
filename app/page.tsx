@@ -15,7 +15,7 @@ export default function Page() {
           <p
             className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}
           >
-            <strong>Welcome to Acme.</strong> This is your invoice management
+            <strong>Welcome to iDash.</strong> This is your invoice management
             tool.
           </p>
           <Link
